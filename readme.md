@@ -1,4 +1,4 @@
-# Landig page для популярной мышки от компании Logitech
+# Landnig page для популярной мышки от компании Logitech
 
 ## Верстка страницы для мышки от компании Logitech MX3
 
