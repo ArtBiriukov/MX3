@@ -3,7 +3,7 @@
 ## Верстка страницы для мышки от компании Logitech MX3
 
 ## Демо
-https://artbiryukov.github.io/MX3/
+[Ссылка на страницу](https://artbiriukov.github.io/MX3/)
 
 ## Технологии
 <ul>
